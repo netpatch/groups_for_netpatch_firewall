@@ -1,0 +1,220 @@
+United States|US|49825|1607959552
+China|CN|7705|338116096
+Japan|JP|4095|203258624
+Korea, Republic of|KR|1116|112427008
+Brazil|BR|7271|83187968
+Canada|CA|7299|70292736
+Australia|AU|7334|48521728
+India|IN|4898|41084416
+Taiwan, Province of China|TW|622|35503360
+Mexico|MX|1092|28828416
+South Africa|ZA|1331|28038912
+Egypt|EG|158|20928512
+Argentina|AR|1248|19084800
+Indonesia|ID|1730|17978112
+Colombia|CO|422|17291776
+Viet Nam|VN|549|15858944
+Hong Kong|HK|2086|11721472
+Chile|CL|645|10185728
+Morocco|MA|49|9900288
+Thailand|TH|589|9050368
+Seychelles|SC|53|7942912
+Singapore|SG|1198|6963200
+New Zealand|NZ|1578|6859264
+Venezuela, Bolivarian Republic of|VE|200|6797824
+Malaysia|MY|623|6579712
+Philippines|PH|481|5464576
+Kenya|KE|149|5420800
+Pakistan|PK|346|5344256
+Tunisia|TN|18|5227008
+Italy|IT|57|4963840
+Algeria|DZ|36|4790016
+Germany|DE|119|3492608
+United Kingdom|GB|136|3331584
+Peru|PE|167|3170048
+Iran, Islamic Republic of|IR|36|3075072
+Costa Rica|CR|187|2581760
+Ecuador|EC|261|2578944
+Nigeria|NG|218|2508288
+Uruguay|UY|78|2440192
+Russian Federation|RU|87|2410496
+Panama|PA|147|1870848
+Mauritius|MU|78|1785856
+Dominican Republic|DO|103|1574912
+France|FR|41|1484544
+Bangladesh|BD|666|1331968
+Sudan|SD|24|1271040
+Angola|AO|70|1205248
+Zambia|ZM|32|1162752
+Bolivia, Plurinational State of|BO|94|1142784
+Ghana|GH|95|1136896
+Sweden|SE|18|1094912
+Paraguay|PY|70|1083648
+Tanzania, United Republic of|TZ|106|1046272
+Puerto Rico|PR|133|1037824
+Denmark|DK|10|997376
+Spain|ES|42|986880
+Côte d'Ivoire|CI|35|909824
+Kazakhstan|KZ|6|903168
+Uganda|UG|52|887040
+Saudi Arabia|SA|8|811008
+El Salvador|SV|64|656640
+Guatemala|GT|73|608512
+Turkey|TR|12|584704
+Sri Lanka|LK|53|541696
+European Union|EU|3|534528
+United Arab Emirates|AE|12|534528
+Trinidad and Tobago|TT|50|532480
+Nepal|NP|99|513280
+Honduras|HN|151|499200
+Czech Republic|CZ|15|477440
+Namibia|NA|30|459008
+Cameroon|CM|36|444672
+Mozambique|MZ|41|427776
+Malawi|MW|29|418304
+Greece|GR|5|415744
+Romania|RO|19|411136
+Nicaragua|NI|43|403712
+Poland|PL|20|382976
+Israel|IL|10|372992
+Libya|LY|22|363520
+Ethiopia|ET|5|361472
+Senegal|SN|21|360960
+Norway|NO|17|358144
+Gabon|GA|30|347136
+Rwanda|RW|17|345600
+Macao|MO|32|333056
+Togo|TG|7|304128
+Portugal|PT|6|303104
+Réunion|RE|12|301056
+Cambodia|KH|145|297216
+Oman|OM|4|278528
+Gambia|GM|15|258560
+Cuba|CU|21|257024
+Switzerland|CH|34|229632
+Mongolia|MN|72|225792
+Guam|GU|28|218624
+Jamaica|JM|43|213760
+Brunei Darussalam|BN|28|204288
+Curaçao|CW|42|196352
+Ukraine|UA|12|180224
+Netherlands|NL|58|176128
+Cayman Islands|KY|19|173568
+Barbados|BB|31|172800
+Madagascar|MG|20|167680
+Afghanistan|AF|76|164608
+Haiti|HT|26|162816
+New Caledonia|NC|40|158976
+Belize|BZ|39|152832
+Congo, the Democratic Republic of the|CD|43|148736
+Fiji|FJ|31|142336
+Benin|BJ|23|137728
+Bahamas|BS|18|136448
+Botswana|BW|33|136192
+Myanmar|MM|74|117760
+Hungary|HU|9|108544
+Lesotho|LS|17|103424
+Bermuda|BM|39|102400
+Zimbabwe|ZW|32|97024
+Burkina Faso|BF|22|96256
+Virgin Islands, U.S.|VI|15|95488
+Suriname|SR|12|80128
+Mali|ML|15|78848
+Syrian Arab Republic|SY|4|77824
+Georgia|GE|7|75776
+Finland|FI|6|75776
+Lao People's Democratic Republic|LA|31|72192
+Belgium|BE|11|71936
+Aruba|AW|6|70656
+Lithuania|LT|1|65536
+Antigua and Barbuda|AG|15|63488
+French Polynesia|PF|14|61952
+Maldives|MV|20|60672
+Guyana|GY|12|60416
+Saint Kitts and Nevis|KN|39|60416
+Papua New Guinea|PG|35|58368
+Congo|CG|15|52736
+Sierra Leone|SL|13|50176
+Djibouti|DJ|6|49664
+Virgin Islands, British|VG|27|49664
+Bulgaria|BG|4|47104
+Swaziland|SZ|12|44288
+Mauritania|MR|7|42496
+Niger|NE|7|39936
+Bosnia and Herzegovina|BA|8|38912
+Armenia|AM|3|36864
+Burundi|BI|15|35840
+Estonia|EE|8|34816
+Bhutan|BT|15|29696
+Cape Verde|CV|9|29696
+Liberia|LR|10|27136
+Austria|AT|7|27136
+Sint Maarten (Dutch part)|SX|11|26112
+Saint Vincent and the Grenadines|VC|19|25600
+Guinea|GN|11|25344
+Ireland|IE|10|25088
+Bonaire, Sint Eustatius and Saba|BQ|11|24576
+Iraq|IQ|8|24576
+Palestine, State of|PS|5|22528
+Somalia|SO|14|20736
+French Guiana|GF|4|20480
+Chad|TD|10|19968
+Moldova, Republic of|MD|2|18432
+Azerbaijan|AZ|5|18432
+Samoa|WS|11|17920
+Guadeloupe|GP|6|16384
+Croatia|HR|2|16384
+Vanuatu|VU|16|16128
+Equatorial Guinea|GQ|8|15360
+Northern Mariana Islands|MP|6|15360
+Serbia|RS|4|14336
+South Sudan|SS|13|14336
+Timor-Leste|TL|11|13568
+Lebanon|LB|3|12288
+Latvia|LV|3|12288
+Solomon Islands|SB|6|11520
+Dominica|DM|9|11520
+Turks and Caicos Islands|TC|7|10496
+Grenada|GD|9|9728
+Nauru|NR|6|9728
+Tonga|TO|7|9728
+Sao Tome and Principe|ST|2|9216
+Anguilla|AI|7|8448
+Saint Martin (French part)|MF|8|8448
+Belarus|BY|1|8192
+Micronesia, Federated States of|FM|4|8192
+Cook Islands|CK|1|8192
+Tuvalu|TV|1|8192
+Iceland|IS|1|8192
+Asia/Pacific Region|AP|8|7680
+Central African Republic|CF|6|7424
+Guinea-Bissau|GW|3|6144
+Slovenia|SI|3|6144
+Palau|PW|3|5632
+Comoros|KM|2|5120
+Luxembourg|LU|4|4864
+Kiribati|KI|5|4608
+American Samoa|AS|2|4608
+Jordan|JO|1|4096
+Saint Pierre and Miquelon|PM|1|4096
+Eritrea|ER|1|4096
+Marshall Islands|MH|3|4096
+Slovakia|SK|1|4096
+Isle of Man|IM|1|4096
+Wallis and Futuna|WF|3|3584
+British Indian Ocean Territory|IO|2|3072
+Gibraltar|GI|1|2048
+Martinique|MQ|1|2048
+Norfolk Island|NF|4|2048
+Niue|NU|2|2048
+Cyprus|CY|1|2048
+Kyrgyzstan|KG|1|2048
+Yemen|YE|1|2048
+Macedonia, the Former Yugoslav Republic of|MK|6|2048
+Liechtenstein|LI|1|2048
+Tokelau|TK|1|2048
+Montserrat|MS|2|1280
+Korea, Democratic People's Republic of|KP|1|1024
+Mayotte|YT|1|1024
+Saint Barthélemy|BL|2|512
+Saint Lucia|LC|2|512
