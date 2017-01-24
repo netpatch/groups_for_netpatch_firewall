@@ -14,5 +14,7 @@
 
 <https://firewall.netpatch.co/files/amt.txt>
 
-Need add domains or domain source, please create a issue.
+## Add domains or domain source
+
+Please create an issue, thanks.
 
