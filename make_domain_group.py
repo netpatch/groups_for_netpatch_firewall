@@ -20,7 +20,9 @@ def get_content_from_url(url):
         f.write(content)
         f.close()
         return content
-  
+
+whitelist_domains = set(['.gvt1.com'])
+
 def make_domain_group(urls):
     res = set()
     for url, type in urls:
@@ -48,7 +50,8 @@ def make_domain_group(urls):
                 domain = line
                 if '.' in domain:
                     res.add('.'+domain)
-
+    
+    res = res - whitelist_domains
     res = list(res)
     res.sort(key=lambda o: o.split('.')[-2])
     
