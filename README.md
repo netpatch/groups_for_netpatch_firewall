@@ -14,6 +14,14 @@
 
 <https://firewall.netpatch.co/files/amt.txt>
 
+## make domains file from adblock plus's list(amt2.txt)
+
+
+    python make_domain_group_from_adblockplus.py
+    
+
+<https://firewall.netpatch.co/files/amt2.txt>
+
 ## Add domains or domain source
 
 Please create an issue, thanks.
