@@ -9,7 +9,7 @@
 ## make Ad/Malware/Tracking domains file(amt.txt)
 
 
-    python mmake_domain_group.py
+    python make_domain_group.py
     
 
 <https://firewall.netpatch.co/files/amt.txt>
