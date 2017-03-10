@@ -1,6 +1,6 @@
 ## Country ips groups(country_ips/*.txt)
 
-#### source:
+#### sources:
 
 1, ftp://ftp.ripe.net/pub/stats/ripencc/delegated-ripencc-extended-latest  
 2, ftp://ftp.lacnic.net/pub/stats/lacnic/delegated-lacnic-extended-latest  
