@@ -1,5 +1,9 @@
 ## Country ips groups(country_ips/*.txt)
 
+<https://firewall.netpatch.co/country_ips/>
+
+    python make_country_ips.py
+    
 #### sources:
 
 1, ftp://ftp.ripe.net/pub/stats/ripencc/delegated-ripencc-extended-latest  
@@ -8,25 +12,17 @@
 4, ftp://ftp.apnic.net/public/stats/apnic/delegated-apnic-extended-latest  
 5, ftp://ftp.afrinic.net/pub/stats/afrinic/delegated-afrinic-extended-latest  
 
-#### make youself groups:
-
-    python make_country_ips.py
-    
-<https://firewall.netpatch.co/country_ips/>
-
 
 ## Ad/Malware/Tracking group(amt.txt)
 
+<https://firewall.netpatch.co/files/amt.txt>
+
+    python make_domain_group.py
+    
 #### sources:
 
 1, <https://pgl.yoyo.org/as/>  
 2, <https://adblockplus.org/subscriptions>  
-
-#### make yourself group
-
-    python make_domain_group.py
-    
-<https://firewall.netpatch.co/files/amt.txt>
 
 
 ## Download NetPatch Firewall
