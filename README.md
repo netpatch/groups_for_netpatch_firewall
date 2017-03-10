@@ -29,11 +29,6 @@
 <https://firewall.netpatch.co/files/amt.txt>
 
 
-## Add domain names or sources
-
-Please create an issue, thanks.
-
-
 ## Download NetPatch Firewall
 
 <https://firewall.netpatch.co/>
