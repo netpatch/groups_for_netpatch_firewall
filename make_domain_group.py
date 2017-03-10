@@ -120,7 +120,15 @@ def make_domain_group(urls):
     
     res = res - whitelist_domains
     res = list(res)
-    res.sort(key=lambda o: o.split('.')[-2])
+
+    def sort_fun(o):
+        x = o.split('.')
+        if x[-2] in ('com', 'co') and len(x)>=3:
+            return x[-3]
+        else:
+            return x[-2]
+
+    res.sort(key=sort_fun)
     
     with open('amt.txt', 'w') as f:
         for item in res:
