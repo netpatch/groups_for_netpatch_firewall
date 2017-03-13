@@ -21,19 +21,19 @@ domain_source_urls = [
     ('http://www.zoso.ro/pages/rolist.txt', 'adblock'),
     ('https://easylist-downloads.adblockplus.org/advblock.txt', 'adblock'),
 
-    ('https://easylist-downloads.adblockplus.org/easyprivacy.txt', 'adblock'),
-    ('https://adblock.gardar.net/is.abp.txt', 'adblock'),
-    ('http://www.void.gr/kargig/void-gr-filters.txt', 'adblock'),
-    ('http://bit.ly/11QrCfx', 'adblock'),
-    ('https://raw.githubusercontent.com/zpacman/Blockzilla/master/Blockzilla.txt', 'adblock'),
-    ('http://adblock.dajbych.net/adblock.txt', 'adblock'),
-    ('http://adblock.ee/list.php', 'adblock'),
-    ('http://gurud.ee/ab.txt', 'adblock'),
-    ('http://abp.mozilla-hispano.org/nauscopio/filtros.txt', 'adblock'),
-    ('https://raw.githubusercontent.com/szpeter80/hufilter/master/hufilter.txt', 'adblock'),
-    ('https://adblock.dk/block.csv', 'adblock'),
-    ('http://noads.it/filtri.txt', 'adblock'),
-    ('https://raw.githubusercontent.com/yous/YousList/master/youslist.txt', 'adblock'),
+    #('https://easylist-downloads.adblockplus.org/easyprivacy.txt', 'adblock'),
+    #('https://adblock.gardar.net/is.abp.txt', 'adblock'),
+    #('http://www.void.gr/kargig/void-gr-filters.txt', 'adblock'),
+    #('http://bit.ly/11QrCfx', 'adblock'),
+    #('https://raw.githubusercontent.com/zpacman/Blockzilla/master/Blockzilla.txt', 'adblock'),
+    #('http://adblock.dajbych.net/adblock.txt', 'adblock'),
+    #('http://adblock.ee/list.php', 'adblock'),
+    #('http://gurud.ee/ab.txt', 'adblock'),
+    #('http://abp.mozilla-hispano.org/nauscopio/filtros.txt', 'adblock'),
+    #('https://raw.githubusercontent.com/szpeter80/hufilter/master/hufilter.txt', 'adblock'),
+    #('https://adblock.dk/block.csv', 'adblock'),
+    #('http://noads.it/filtri.txt', 'adblock'),
+    #('https://raw.githubusercontent.com/yous/YousList/master/youslist.txt', 'adblock'),
 
     ('https://easylist-downloads.adblockplus.org/antiadblockfilters.txt', 'adblock'),
     ('https://easylist-downloads.adblockplus.org/adwarefilters.txt', 'adblock'),
@@ -77,7 +77,7 @@ def make_domain_group(urls):
         except:
             print 'get_content_from_url error: ', type, url
             raise
-
+        
         for line in content:
             if type!='adblock':
                 i = line.find('#')

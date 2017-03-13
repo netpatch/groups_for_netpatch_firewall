@@ -1,7 +1,5 @@
 ## Country ips groups(country_ips/*.txt)
 
-<https://firewall.netpatch.co/country_ips/>
-
     python make_country_ips.py
     
 #### sources:
