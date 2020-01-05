@@ -13,7 +13,7 @@
 
 ## Ad/Malware/Tracking group(amt.txt)
 
-<https://firewall.netpatch.co/files/amt.txt>
+<https://netpatch.github.io/files/amt.txt>
 
     python make_domain_group.py
     
@@ -25,5 +25,5 @@
 
 ## Download NetPatch Firewall
 
-<https://firewall.netpatch.co/>
+<https://netpatch.github.io/>
 
