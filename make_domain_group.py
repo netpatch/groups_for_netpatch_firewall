@@ -13,7 +13,7 @@ domain_source_urls = [
     ('https://easylist-downloads.adblockplus.org/easylistgermany.txt', 'adblock'),
     ('https://raw.githubusercontent.com/easylist/EasyListHebrew/master/EasyListHebrew.txt', 'adblock'),
     ('https://easylist-downloads.adblockplus.org/easylistitaly.txt', 'adblock'),
-    ('http://margevicius.lt/easylistlithuania.txt', 'adblock'),
+    #('http://margevicius.lt/easylistlithuania.txt', 'adblock'),
     ('https://easylist-downloads.adblockplus.org/easylistspanish.txt', 'adblock'),
     ('https://notabug.org/latvian-list/adblock-latvian/raw/master/lists/latvian-list.txt', 'adblock'),
     ('https://easylist-downloads.adblockplus.org/Liste_AR.txt', 'adblock'),
@@ -36,11 +36,11 @@ domain_source_urls = [
     #('https://raw.githubusercontent.com/yous/YousList/master/youslist.txt', 'adblock'),
 
     ('https://easylist-downloads.adblockplus.org/antiadblockfilters.txt', 'adblock'),
-    ('https://easylist-downloads.adblockplus.org/adwarefilters.txt', 'adblock'),
+    # ('https://easylist-downloads.adblockplus.org/adwarefilters.txt', 'adblock'),
     ('https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt', 'adblock'),
     ('https://easylist-downloads.adblockplus.org/fanboy-social.txt', 'adblock'),
     ('http://www.kiboke-studio.hr/i-dont-care-about-cookies/abp/', 'adblock'),
-    ('https://easylist-downloads.adblockplus.org/malwaredomains_full.txt', 'adblock'),
+    #('https://easylist-downloads.adblockplus.org/malwaredomains_full.txt', 'adblock'),
     ('https://raw.github.com/liamja/Prebake/master/obtrusive.txt', 'adblock'),
     ('https://raw.githubusercontent.com/Dawsey21/Lists/master/adblock-list.txt', 'adblock'),
 
