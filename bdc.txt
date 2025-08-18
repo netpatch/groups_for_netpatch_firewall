@@ -1840,7 +1840,6 @@
 .ac-room.cc
 .academic-accelerator.com
 .academickids.com
-.academictorrents.com
 .acast.com
 .acbuy.com
 .accelevents.com
